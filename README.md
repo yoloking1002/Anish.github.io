@@ -334,7 +334,7 @@ footer{background:var(--navy);padding:22px 48px;display:flex;justify-content:spa
 
   <div style="background:var(--navy);border-radius:8px;padding:22px;margin-top:4px;">
     <div style="font-family:'EB Garamond',serif;font-size:17px;color:var(--gold);margin-bottom:10px;">The Investment Argument</div>
-    <p style="font-size:13px;color:rgba(255,255,255,.72);line-height:1.75;">Recordati's 12.35× entry multiple is not a reflection of the quality of the underlying businesses. It is the product of six overlapping structural discounts, three of which — the PE ownership overhang, the Italian listing venue discount and the conglomerate blending problem — are directly eliminated by the take-private and subsequent rare disease division carve-out. The remaining three are cyclical or partially mitigated by Isturisa's commercial acceleration. The 44% de-rating from the 2021 peak has occurred entirely while EBITDA has compounded at 13.5% annually and margins have expanded every year. Private ownership removes the structural noise and allows the rare disease division to be monetised at the multiples it deserves.</p>
+    <p style="font-size:13px;color:rgba(255,255,255,.72);line-height:1.75;">Recordati's 12.35× entry multiple is not a reflection of the quality of the underlying businesses. It is the product of six overlapping structural discounts, three of which — the PE ownership overhang, the Italian listing venue discount, and the conglomerate blending problem — are directly eliminated by the take-private and subsequent rare disease division carve-out. The remaining three are cyclical or partially mitigated by Isturisa's commercial acceleration. The 44% de-rating from the 2021 peak has occurred entirely while EBITDA has compounded at 13.5% annually and margins have expanded every year. Private ownership removes the structural noise and allows the rare disease division to be monetised at the multiples it deserves.</p>
   </div>
 </div>
 </div>
@@ -677,9 +677,9 @@ footer{background:var(--navy);padding:22px 48px;display:flex;justify-content:spa
         <div class="dsr"><span class="dsl">Equity value (market cap)</span><span class="dsv g">€10.11bn</span></div>
         <div class="dsr"><span class="dsl">Net debt (PitchBook, 17 Apr 2026)</span><span class="dsv">€2.039bn</span></div>
         <div class="dsr"><span class="dsl">Enterprise value (PitchBook, 17 Apr 2026)</span><span class="dsv g">€12.24bn</span></div>
-        <div class="dsr"><span class="dsl">Entry EV / FY2025 EBITDA</span><span class="dsv">12.35&#xD7;</span></div>
-        <div class="dsr"><span class="dsl">Forward EV / FY2026 EBITDA</span><span class="dsv">12.18&#xD7; (PitchBook)</span></div>
-        <div class="dsr"><span class="dsl">Cash required for free float</span><span class="dsv">€5,641M</span></div>
+        <div class="dsr"><span class="dsl">Entry EV with new debt</span><span class="dsv">13.16bn</span></div>
+        <div class="dsr"><span class="dsl">Entry EV / FY2025 EBITDA</span><span class="dsv">13.23&#xD7;</span></div>
+        <div class="dsr"><span class="dsl">Cash required for free float</span><span class="dsv">€5,625M</span></div>
         <div class="dsr"><span class="dsl">New co-investor equity</span><span class="dsv">&#x20AC;2,131M (free float + 30% of fees)</span></div>
         <div class="dsr"><span class="dsl">Total debt in private entity</span><span class="dsv">&#x20AC;5,982M (46% of deal · 5.0%)</span></div>
         <div class="dsr"><span class="dsl">Expected close</span><span class="dsv">H2 2026</span></div>
@@ -695,19 +695,19 @@ footer{background:var(--navy);padding:22px 48px;display:flex;justify-content:spa
       <div style="font-size:11px;font-weight:500;letter-spacing:.07em;text-transform:uppercase;color:var(--g600);margin-bottom:9px;">Sum-of-the-parts value bridge</div>
       <div class="cc">
         <div class="ct">SOTP Valuation vs Entry EV</div>
-        <div class="cs">Entry EV €12.24bn vs estimated SOTP range &#x20AC;12.2 to &#x20AC;15.0bn · &#x20AC;bn</div>
+        <div class="cs">Entry EV €13.16bn vs estimated SOTP range &#x20AC;12.4 to &#x20AC;15.6bn · &#x20AC;bn</div>
         <div class="cw" style="height:220px;"><canvas id="sotpChart"></canvas></div>
       </div>
       <div class="mt20">
         <table class="s">
           <thead><tr><th>Division</th><th>Revenue</th><th>Est. EBITDA</th><th>Multiple</th><th>Value</th></tr></thead>
           <tbody>
-            <tr><td><strong>Rare Disease (RRD)</strong></td><td>€1,081M</td><td>€435M</td><td>18 to 22×</td><td><strong>€7.8 to 9.6bn</strong></td></tr>
-            <tr><td><strong>Specialty Pharma (SPC)</strong></td><td>€1,478M</td><td>€490M</td><td>9 to 11×</td><td><strong>€4.4 to 5.4bn</strong></td></tr>
-            <tr class="tr"><td><strong>SOTP Total</strong></td><td></td><td>€925M</td><td></td><td><strong>€12.2 to 15.0bn</strong></td></tr>
+            <tr><td><strong>Rare Disease (RRD)</strong></td><td>€1,081M</td><td>€432M</td><td>18 to 22×</td><td><strong>€7.8 to 9.5bn</strong></td></tr>
+            <tr><td><strong>Specialty Pharma (SPC)</strong></td><td>€1,537M</td><td>€507M</td><td>9 to 12×</td><td><strong>€4.4 to 5.4bn</strong></td></tr>
+            <tr class="tr"><td><strong>SOTP Total</strong></td><td></td><td>€925M</td><td></td><td><strong>€12.4 to 15.6bn</strong></td></tr>
           </tbody>
         </table>
-        <p style="font-size:10.5px;color:var(--g400);margin-top:9px;font-style:italic;">EBITDA allocations are illustrative estimates based on an assumed RRD margin of 38 to 40% versus the blended group margin of 37.8%. These figures are indicative and do not constitute financial projections.</p>
+        <p style="font-size:10.5px;color:var(--g400);margin-top:9px;font-style:italic;">EBITDA allocations are illustrative estimates based on an assumed RRD margin of 33 to 40% versus the blended group margin of 36.5%. These figures are indicative and do not constitute financial projections.</p>
       </div>
     </div>
   </div>
@@ -1022,7 +1022,7 @@ footer{background:var(--navy);padding:22px 48px;display:flex;justify-content:spa
 
 <footer>
   <div class="fb">Recordati <span>S.p.A.</span> · Co-Investment</div>
-  <div class="fd">This document is confidential and prepared for sophisticated institutional investors only. It does not constitute financial projections, an offer to sell or a solicitation to invest. Share price &#x20AC;50.00 as of 17 April 2026; offer price &#x20AC;52.00 per share (4.0% premium to last close). Enterprise Value &#x20AC;12.24bn per PitchBook (market cap &#x20AC;10.20bn + total debt &#x20AC;2.467bn &#x2212; cash &#x20AC;429M = &#x20AC;12,240M; 17 April 2026). Entry EV/EBITDA: 12.35&#xD7; on FY2025 EBITDA &#x20AC;991.1M (matches PitchBook normalised EV/EBITDA of 12.35&#xD7;). Forward EV/EBITDA: 12.18&#xD7; (PitchBook). Total transaction value &#x20AC;13,115M. Sources: new co-investor equity &#x20AC;2,131M (&#x20AC;2,110M free float + &#x20AC;21M transaction costs, 30% of fees) + Rossini rollover &#x20AC;5,002M (&#x20AC;4,953M + &#x20AC;49M transaction costs, 70% of fees) + existing debt refinanced &#x20AC;2,467M + new term loan &#x20AC;3,515M. Total equity &#x20AC;7,133M (54%); total debt &#x20AC;5,982M (46%) at 5.0% flat. Annual interest &#x20AC;299M Years 1&#x2013;3; &#x20AC;150M Years 4&#x2013;5 after &#x20AC;2,991M (50% of debt) repaid from RRD proceeds. Entry debt/EBITDA: 6.0&#xD7;; Year 1 EBITDA/interest: 3.3&#xD7;. Returns on total equity &#x20AC;7,133M (timed cash flows): base 1.50&#xD7; / 9.1% IRR; bull 2.12&#xD7; / 16.4%; bear 0.95&#xD7; / (1.3)%. RRD = 59% of group EBITDA and revenue; SPC = 41%. RRD FY2025 revenue &#x20AC;1,081M (GlobeNewswire, 17 Feb 2026). FX headwind FY2025: &#x20AC;64.2M (&#x2212;2.7%); FY2026 guidance: &#x2212;3.5%. Relacorilant received a Complete Response Letter from the FDA for Cushing&#x2019;s syndrome in December 2025; separately approved for platinum-resistant ovarian cancer (Lifyorli&#x2122;) in March 2026 &#x2014; a distinct indication that does not compete with Isturisa. All figures as of 17 April 2026.</div>
+  <div class="fd">This document is confidential and prepared for sophisticated institutional investors only. It does not constitute financial projections, an offer to sell or a solicitation to invest. Share price &#x20AC;50.00 as of 17 April 2026; offer price &#x20AC;52.00 per share (4.0% premium to last close). Enterprise Value &#x20AC;12.24bn per PitchBook (market cap &#x20AC;10.20bn + total debt &#x20AC;2.467bn &#x2212; cash &#x20AC;429M = &#x20AC;12,240M; 17 April 2026). Entry EV/EBITDA: 13.15&#xD7; on FY2025 EBITDA &#x20AC;991.1M (matches PitchBook normalised EV/EBITDA of 12.35&#xD7;). Forward EV/EBITDA: 12.18&#xD7; (PitchBook). Total transaction value &#x20AC;13,115M. Sources: new co-investor equity &#x20AC;2,131M (&#x20AC;2,110M free float + &#x20AC;21M transaction costs, 30% of fees) + Rossini rollover &#x20AC;5,002M (&#x20AC;4,953M + &#x20AC;49M transaction costs, 70% of fees) + existing debt refinanced &#x20AC;2,467M + new term loan &#x20AC;3,515M. Total equity &#x20AC;7,133M (54%); total debt &#x20AC;5,982M (46%) at 5.0% flat. Annual interest &#x20AC;299M Years 1&#x2013;3; &#x20AC;150M Years 4&#x2013;5 after &#x20AC;2,991M (50% of debt) repaid from RRD proceeds. Entry debt/EBITDA: 6.0&#xD7;; Year 1 EBITDA/interest: 3.3&#xD7;. Returns on total equity &#x20AC;7,133M (timed cash flows): base 1.50&#xD7; / 9.1% IRR; bull 2.12&#xD7; / 16.4%; bear 0.95&#xD7; / (1.3)%. RRD = 59% of group EBITDA and revenue; SPC = 41%. RRD FY2025 revenue &#x20AC;1,081M (GlobeNewswire, 17 Feb 2026). FX headwind FY2025: &#x20AC;64.2M (&#x2212;2.7%); FY2026 guidance: &#x2212;3.5%. Relacorilant received a Complete Response Letter from the FDA for Cushing&#x2019;s syndrome in December 2025; separately approved for platinum-resistant ovarian cancer (Lifyorli&#x2122;) in March 2026 &#x2014; a distinct indication that does not compete with Isturisa. All figures as of 17 April 2026.</div>
 </footer>
 
 <script>
@@ -1083,8 +1083,8 @@ function initCharts(id){
   }
   if(id==='deal'&&!C.sotp){
     C.sotp=new Chart(document.getElementById('sotpChart'),{type:'bar',
-      data:{labels:['Entry EV','RRD (18×)','SPC (10×)','SOTP Total','Value Gap'],
-        datasets:[{data:[11.97,7.8,4.8,12.6,0.63],backgroundColor:[GR,N,G,GRN,RED],borderWidth:0,borderRadius:3}]},
+      data:{labels:['Entry EV','RRD (20×)','SPC (11×)','SOTP Total','Value Gap'],
+        datasets:[{data:[12.24,9.5,5.6,15.1,2.86],backgroundColor:[GR,N,G,GRN,RED],borderWidth:0,borderRadius:3}]},
       options:{responsive:true,maintainAspectRatio:false,
         plugins:{legend:{display:false},tooltip:{callbacks:{label:c=>` €${c.raw}bn`}}},
         scales:{x:{grid:{display:false}},y:{grid:{color:GL},ticks:{callback:v=>`€${v}bn`},min:0,max:16}}}
